@@ -1,6 +1,6 @@
-# ResonanceDump_MusicNoteBox
+# ResonanceDump_MusicNoteBox_SDK
 New music file format
---- Resonance Dump: Music Note Box v1 ---
+--- Resonance Dump: Music Note Box SDK v1 ---
 High-Performance Text-to-Audio Synthesis
 Resonance Dump (RD) is a lightweight, portable music engine that turns
 logic-based script files (.mnb) into system-level audio frequencies.
